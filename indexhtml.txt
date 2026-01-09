@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>DOKTER SOSMED | Solusi Pertumbuhan Akun</title>
+  <meta name="description" content="DOKTER SOSMED adalah layanan profesional untuk membantu pertumbuhan akun media sosial secara optimal, aman, dan efisien.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Font Awesome Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #0b1220;
+      color: #e5e7eb;
+      margin: 0;
+      padding: 0;
+    }
+    .wrapper {
+      max-width: 960px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    header h1 {
+      font-size: 42px;
+      letter-spacing: 2px;
+      color: #38bdf8;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 18px;
+      color: #cbd5f5;
+    }
+    section {
+      background: #111827;
+      padding: 30px;
+      border-radius: 14px;
+      margin-bottom: 30px;
+    }
+    section h2 {
+      color: #38bdf8;
+      margin-bottom: 15px;
+      font-size: 24px;
+    }
+    section p, section li {
+      line-height: 1.8;
+      font-size: 16px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .cta a {
+      background: #22c55e;
+      color: #ffffff;
+      padding: 16px 36px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 50px;
+      text-decoration: none;
+      display: inline-block;
+      transition: 0.3s;
+    }
+    .cta a:hover {
+      background: #16a34a;
+    }
+    .socials {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .socials a {
+      color: #e5e7eb;
+      font-size: 26px;
+      margin: 0 12px;
+      transition: 0.3s;
+    }
+    .socials a:hover {
+      color: #38bdf8;
+      transform: scale(1.15);
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #94a3b8;
+      text-align: center;
+      line-height: 1.6;
+    }
+    .disclaimer {
+      font-size: 14px;
+      color: #9ca3af;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <header>
+      <h1>DOKTER SOSMED</h1>
+      <p>Solusi Profesional untuk Pertumbuhan Media Sosial Anda</p>
+    </header>
+
+    <section>
+      <h2>Tentang Kami</h2>
+      <p>
+        <strong>DOKTER SOSMED</strong> hadir sebagai partner strategis untuk membantu meningkatkan performa akun media sosial Anda.
+        Kami fokus pada kualitas layanan, kestabilan, dan pendekatan yang terukur agar pertumbuhan akun terlihat lebih natural dan profesional.
+      </p>
+    </section>
+
+    <section>
+      <h2>Layanan Utama</h2>
+      <ul>
+        <li>Peningkatan Followers & Engagement</li>
+        <li>Optimasi visibilitas akun</li>
+        <li>Layanan untuk personal brand & bisnis</li>
+        <li>Proses terkontrol dan bertahap</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Paket Followers</h2>
+      <ul>
+        <li>500 Followers – Rp35.000</li>
+        <li>1.000 Followers – Rp60.000</li>
+        <li>Custom order – hubungi admin</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Kenapa Memilih DOKTER SOSMED?</h2>
+      <ul>
+        <li>Pendekatan profesional & berpengalaman</li>
+        <li>Fokus pada keamanan dan kestabilan akun</li>
+        <li>Transparan dalam proses & komunikasi</li>
+        <li>Support responsif dan berkelanjutan</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Disclaimer</h2>
+      <p class="disclaimer">
+        Followers bersifat permanen, namun penurunan kecil dapat terjadi karena kebijakan platform.
+        Jika terjadi drop, kami menyediakan <strong>refill sesuai ketentuan</strong>.
+        Akun disarankan aktif dan tidak diprivat.
+        <br><br>
+        DOKTER SOSMED tidak berafiliasi secara resmi dengan TikTok, Instagram, Facebook, YouTube, atau platform lainnya.
+        Dengan menggunakan layanan kami, klien dianggap telah memahami dan menyetujui ketentuan ini.
+      </p>
+    </section>
+
+    <div class="cta">
+      <a href="https://wa.me/628970066726?text=Halo%20Dokter%20Sosmed,%20saya%20ingin%20order%20followers" target="_blank">
+        Konsultasi & Order via WhatsApp
+      </a>
+    </div>
+
+    <div class="socials">
+      <a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+      <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+      <a href="#" title="TikTok"><i class="fab fa-tiktok"></i></a>
+      <a href="#" title="YouTube"><i class="fab fa-youtube"></i></a>
+      <a href="#" title="X"><i class="fab fa-x-twitter"></i></a>
+    </div>
+
+    <footer>
+      © 2019 <strong>DOKTER SOSMED</strong><br>
+      Professional Social Media Growth Service
+    </footer>
+
+  </div>
+</body>
+</html>
